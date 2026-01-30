@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.terratrax.app",
+            "sha256_cert_fingerprints": [
+                "9A:AB:0E:49:41:05:BC:EA:19:A3:06:EC:9E:F2:A2:6A:5B:5E:72:03:6E:40:AB:71:28:15:5F:DD:2A:D4:97:14"
+            ]
+        }
+    }
+]
